@@ -1,0 +1,8 @@
+# Don't take anything from these folders
+/vars_DO_NOT_DELETE/*
+.DS_Store
+*/.DS_Store
+*.m~
+
+# Dummy file so that these folders are uploaded to the repo
+!vars_DO_NOT_DELETE/.gitkeep
