@@ -1,2 +1,2 @@
-# TFM-model
-TFM model for validation of TFM analysis tools
+# 2D_TFM_model
+ Creates 2D model video for TFM analysis validation and benchmarking
